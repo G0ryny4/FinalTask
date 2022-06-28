@@ -23,3 +23,7 @@
 [Справочник по Markdown от Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
 [Скачать Git](https://git-scm.com/download/win)
+
+[Gittutorial](https://git-scm.com/docs/gittutorial)
+
+> gittutorial - A tutorial introduction to Git
