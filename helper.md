@@ -27,3 +27,9 @@
 [Gittutorial](https://git-scm.com/docs/gittutorial)
 
 > gittutorial - A tutorial introduction to Git
+
+
+
+
+
+- git branch -d <название ветки> – удалить ветку
