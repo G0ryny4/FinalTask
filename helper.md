@@ -27,3 +27,5 @@
 [Gittutorial](https://git-scm.com/docs/gittutorial)
 
 > gittutorial - A tutorial introduction to Git
+
+- git branch <название ветки> – создать новую ветку
