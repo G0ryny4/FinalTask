@@ -27,3 +27,7 @@
 [Gittutorial](https://git-scm.com/docs/gittutorial)
 
 > gittutorial - A tutorial introduction to Git
+
+
+
+- git branch – посмотреть список веток в репозитории
