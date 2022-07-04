@@ -29,3 +29,7 @@
 > gittutorial - A tutorial introduction to Git
 
 - git branch <название ветки> – создать новую ветку
+
+- git branch – посмотреть список веток в репозитории
+
+
