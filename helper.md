@@ -29,3 +29,12 @@
 > gittutorial - A tutorial introduction to Git
 
 - git branch <название ветки> – создать новую ветку
+
+
+
+
+
+
+
+
+- git merge <название ветки> - слить ветку с текущей
