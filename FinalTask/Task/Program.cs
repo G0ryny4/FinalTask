@@ -41,6 +41,7 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+InputWords(m);
 SecondArrayWithIF(array1, array2);
 PrintArray(array2);
-InputWords(m);
